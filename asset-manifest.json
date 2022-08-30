@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-travel-journal-sample/static/css/main.5419fabb.css",
+    "main.js": "/React-travel-journal-sample/static/js/main.887abf61.js",
+    "static/media/logo.svg": "/React-travel-journal-sample/static/media/logo.effd6bd682e96f8b9c07c60c09e9ee34.svg",
+    "index.html": "/React-travel-journal-sample/index.html",
+    "main.5419fabb.css.map": "/React-travel-journal-sample/static/css/main.5419fabb.css.map",
+    "main.887abf61.js.map": "/React-travel-journal-sample/static/js/main.887abf61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5419fabb.css",
+    "static/js/main.887abf61.js"
+  ]
+}
